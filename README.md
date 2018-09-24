@@ -16,6 +16,13 @@ insert(char *str, char *substr, int position)
 Remove(char *str, int position, int len) 
 ```
 
+- [Replace sub-string in a string](https://github.com/shaswata56/Data-Structure-Algorithms/blob/master/implementation/string/ReplaceSubStringInString.c)
+
+```c
+replace(char* str,char* sub,char* rep)
+```
+
+
 **Searching & Sorting:**
 
 - [QuickSort](https://github.com/shaswata56/automatic-eureka/blob/master/implementation/sorting/QuickSort.c)
