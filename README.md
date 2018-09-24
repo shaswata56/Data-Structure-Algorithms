@@ -1,4 +1,4 @@
-# Data Structure Algorithms 1.2  [![CodeFactor](https://www.codefactor.io/repository/github/shaswata56/automatic-eureka/badge/master)](https://www.codefactor.io/repository/github/shaswata56/automatic-eureka/overview/master)
+# Data Structure Algorithms 1.2  [![CodeFactor](https://www.codefactor.io/repository/github/shaswata56/data-structure-algorithms/badge)](https://www.codefactor.io/repository/github/shaswata56/data-structure-algorithms)
 Data Structure's Code for 1st year 2nd semester course.
 
 **String:**
