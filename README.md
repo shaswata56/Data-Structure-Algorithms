@@ -3,6 +3,15 @@ Data Structure's Code for 1st year 2nd semester course.
 
 **String:**
 
-[!](https://github.com/shaswata56/automatic-eureka/blob/master/implementation/string/Insert.c)
+- [String Insertion](https://github.com/shaswata56/automatic-eureka/blob/master/implementation/string/Insert.c)
  
- 'insert(char *str, char *substr, int position)'
+
+```c
+insert(char *str, char *substr, int position) 
+```
+
+- [Removing sub-string from a string](https://github.com/shaswata56/automatic-eureka/blob/master/implementation/string/Remove.c)
+
+```c
+Remove(char *str, int position, int len) 
+```
