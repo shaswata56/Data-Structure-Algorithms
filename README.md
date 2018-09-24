@@ -15,3 +15,11 @@ insert(char *str, char *substr, int position)
 ```c
 Remove(char *str, int position, int len) 
 ```
+
+**Searching & Sorting:**
+
+- [QuickSort](https://github.com/shaswata56/automatic-eureka/blob/master/implementation/sorting/QuickSort.c)
+
+```c
+quicksort(int arr[], int low, int high)
+```
