@@ -22,16 +22,17 @@ Remove(char *str, int position, int len)
 replace(char* str, char* sub, char* rep)
 ```
 
-- [First pattern matching algorithm](https://github.com/shaswata56/Data-Structure-Algorithms/blob/master/Chapter-3-String-Processing/FirstPatternMatchingAlgo.c) (aka Brute-Force algorithm)
+- [First pattern matching algorithm](https://github.com/shaswata56/Data-Structure-Algorithms/blob/master/Chapter-3-String-Processing/FirstPatternMatchingAlgo.c)  (aka Brute-Force algorithm)
 
 ```c
 search(char* str, char* pattern)
 ```
 
-- [Second pattern matching algorithm]()
+- [Second pattern matching algorithm](https://github.com/shaswata56/Data-Structure-Algorithms/blob/master/Chapter-3-String-Processing/SecondPatterMatchingAlgo.c)  (aka K.M.P algorithm)
+
 
 ```c
-demo(char* str,char* sub,char* rep)
+search(char* str, char* pattern)
 ```
 
 ***
