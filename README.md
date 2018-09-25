@@ -3,20 +3,20 @@ Data Structure's Code for 1st year 2nd semester course.
 
 **3rd Chapter:**
 
-- [String Insertion](https://github.com/shaswata56/automatic-eureka/blob/master/implementation/string/Insert.c)
+- [String Insertion](https://github.com/shaswata56/Data-Structure-Algorithms/blob/master/Chapter-3-String-Processing/Insert.c)
  
 
 ```c
 insert(char *str, char *substr, int position) 
 ```
 
-- [Removing sub-string from a string](https://github.com/shaswata56/automatic-eureka/blob/master/implementation/string/Remove.c)
+- [Removing sub-string from a string](https://github.com/shaswata56/Data-Structure-Algorithms/blob/master/Chapter-3-String-Processing/Remove.c)
 
 ```c
 Remove(char *str, int position, int len) 
 ```
 
-- [Replace sub-string in a string](https://github.com/shaswata56/Data-Structure-Algorithms/blob/master/implementation/string/ReplaceSubStringInString.c)
+- [Replace sub-string in a string](https://github.com/shaswata56/Data-Structure-Algorithms/blob/master/Chapter-3-String-Processing/ReplaceSubStringInString.c)
 
 ```c
 replace(char* str,char* sub,char* rep)
@@ -56,13 +56,13 @@ demo(char* str,char* sub,char* rep)
 demo(char* str,char* sub,char* rep)
 ```
 
-- [QuickSort](https://github.com/shaswata56/automatic-eureka/blob/master/implementation/sorting/QuickSort.c)
+- [QuickSort](https://github.com/shaswata56/Data-Structure-Algorithms/blob/master/Chapter-4-Searching-Sorting/QuickSort.c)
 
 ```c
 quicksort(int arr[], int low, int high)
 ```
 
-- [MergeSort](https://github.com/shaswata56/Data-Structure-Algorithms/blob/master/implementation/sorting/MergeSort.c)
+- [MergeSort](https://github.com/shaswata56/Data-Structure-Algorithms/blob/master/Chapter-4-Searching-Sorting/MergeSort.c)
 
 ```c
 mergesort(int a[], int low, int high)
