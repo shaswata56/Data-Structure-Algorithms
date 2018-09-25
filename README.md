@@ -19,7 +19,7 @@ Remove(char *str, int position, int len)
 - [Replace sub-string in a string](https://github.com/shaswata56/Data-Structure-Algorithms/blob/master/Chapter-3-String-Processing/ReplaceSubStringInString.c)
 
 ```c
-replace(char* str,char* sub,char* rep)
+replace(char* str, char* sub, char* rep)
 ```
 
 - [First pattern matching algorithm](https://github.com/shaswata56/Data-Structure-Algorithms/blob/master/Chapter-3-String-Processing/FirstPatternMatchingAlgo.c)
