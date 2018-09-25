@@ -70,6 +70,8 @@ mergesort(int a[], int low, int high)
 
 ***
 
-**Shaswata Das
-Reg No: 2017831050
-Submitted To: Quazi Ishtiaque Mahmud Rafi Sir***
+**Shaswata Das**
+
+**Reg No: 2017831050**
+
+**Submitted To: Quazi Ishtiaque Mahmud Rafi Sir**
