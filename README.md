@@ -34,5 +34,5 @@ quicksort(int arr[], int low, int high)
 - [MergeSort](https://github.com/shaswata56/Data-Structure-Algorithms/blob/master/implementation/sorting/MergeSort.c)
 
 ```c
-mergesort(int a[], int i, int j)
+mergesort(int a[], int low, int high)
 ```
