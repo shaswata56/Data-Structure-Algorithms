@@ -50,10 +50,10 @@ bubblesort(int arr[], int n)
 search(int arr[], int n, int x)
 ```
 
-- [Binary Search]()
+- [Binary Search](https://github.com/shaswata56/Data-Structure-Algorithms/blob/master/Chapter-4-Searching-Sorting/BinarySearch.c)
 
 ```c
-demo(char* str,char* sub,char* rep)
+binarysearch(int* arr, int l, int r, int x)
 ```
 
 - [Quick Sort](https://github.com/shaswata56/Data-Structure-Algorithms/blob/master/Chapter-4-Searching-Sorting/QuickSort.c)
