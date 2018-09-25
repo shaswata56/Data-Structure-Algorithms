@@ -44,10 +44,10 @@ demo(char* str,char* sub,char* rep)
 bubblesort(int arr[], int n)
 ```
 
-- [Linear Search]()
+- [Linear Search](https://github.com/shaswata56/Data-Structure-Algorithms/blob/master/Chapter-4-Searching-Sorting/LinearSearch.c)
 
 ```c
-demo(char* str,char* sub,char* rep)
+search(int arr[], int n, int x)
 ```
 
 - [Binary Search]()
