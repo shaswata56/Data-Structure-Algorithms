@@ -22,15 +22,15 @@ void merge(int a[], int i1, int j1, int i2, int j2)
     }
 }
 
-void mergesort(int a[], int i, int j)
+void mergesort(int a[], int low, int high)
 {
     int mid;
-    if(i<j)
+    if(low < high)
     {
-        mid=(i+j)/2;
-        mergesort(a, i, mid);
-        mergesort(a, mid+1, j);
-        merge(a, i, mid, mid+1, j);
+        mid=(low+high)/2;
+        mergesort(a, low, mid);
+        mergesort(a, mid+1, high);
+        merge(a, low, mid, mid+1, high);
     }
 }
 
