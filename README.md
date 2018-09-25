@@ -38,10 +38,10 @@ demo(char* str,char* sub,char* rep)
 
 **4th Chapter:**
 
-- [Bubble Sort]()
+- [Bubble Sort](https://github.com/shaswata56/Data-Structure-Algorithms/blob/master/Chapter-4-Searching-Sorting/BubbleSort.c)
 
 ```c
-demo(char* str,char* sub,char* rep)
+bubblesort(int arr[], int n)
 ```
 
 - [Linear Search]()
