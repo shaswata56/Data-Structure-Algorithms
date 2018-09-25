@@ -22,7 +22,7 @@ Remove(char *str, int position, int len)
 replace(char* str, char* sub, char* rep)
 ```
 
-- [First pattern matching algorithm](https://github.com/shaswata56/Data-Structure-Algorithms/blob/master/Chapter-3-String-Processing/FirstPatternMatchingAlgo.c)
+- [First pattern matching algorithm](https://github.com/shaswata56/Data-Structure-Algorithms/blob/master/Chapter-3-String-Processing/FirstPatternMatchingAlgo.c) (aka Brute-Force algorithm)
 
 ```c
 search(char* str, char* pattern)
@@ -56,13 +56,13 @@ demo(char* str,char* sub,char* rep)
 demo(char* str,char* sub,char* rep)
 ```
 
-- [QuickSort](https://github.com/shaswata56/Data-Structure-Algorithms/blob/master/Chapter-4-Searching-Sorting/QuickSort.c)
+- [Quick Sort](https://github.com/shaswata56/Data-Structure-Algorithms/blob/master/Chapter-4-Searching-Sorting/QuickSort.c)
 
 ```c
 quicksort(int arr[], int low, int high)
 ```
 
-- [MergeSort](https://github.com/shaswata56/Data-Structure-Algorithms/blob/master/Chapter-4-Searching-Sorting/MergeSort.c)
+- [Merge Sort](https://github.com/shaswata56/Data-Structure-Algorithms/blob/master/Chapter-4-Searching-Sorting/MergeSort.c)
 
 ```c
 mergesort(int a[], int low, int high)
